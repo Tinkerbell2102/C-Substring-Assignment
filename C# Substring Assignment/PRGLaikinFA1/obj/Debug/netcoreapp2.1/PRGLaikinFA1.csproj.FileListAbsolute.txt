@@ -1,0 +1,12 @@
+C:\Users\AsunaSwan\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA1\PRGLaikinFA1\bin\Debug\netcoreapp2.1\PRGLaikinFA1.deps.json
+C:\Users\AsunaSwan\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA1\PRGLaikinFA1\bin\Debug\netcoreapp2.1\PRGLaikinFA1.runtimeconfig.json
+C:\Users\AsunaSwan\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA1\PRGLaikinFA1\bin\Debug\netcoreapp2.1\PRGLaikinFA1.runtimeconfig.dev.json
+C:\Users\AsunaSwan\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA1\PRGLaikinFA1\bin\Debug\netcoreapp2.1\PRGLaikinFA1.dll
+C:\Users\AsunaSwan\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA1\PRGLaikinFA1\bin\Debug\netcoreapp2.1\PRGLaikinFA1.pdb
+C:\Users\AsunaSwan\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA1\PRGLaikinFA1\obj\Debug\netcoreapp2.1\PRGLaikinFA1.csprojAssemblyReference.cache
+C:\Users\AsunaSwan\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA1\PRGLaikinFA1\obj\Debug\netcoreapp2.1\PRGLaikinFA1.AssemblyInfoInputs.cache
+C:\Users\AsunaSwan\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA1\PRGLaikinFA1\obj\Debug\netcoreapp2.1\PRGLaikinFA1.AssemblyInfo.cs
+C:\Users\AsunaSwan\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA1\PRGLaikinFA1\obj\Debug\netcoreapp2.1\PRGLaikinFA1.csproj.CoreCompileInputs.cache
+C:\Users\AsunaSwan\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA1\PRGLaikinFA1\obj\Debug\netcoreapp2.1\PRGLaikinFA1.dll
+C:\Users\AsunaSwan\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA1\PRGLaikinFA1\obj\Debug\netcoreapp2.1\PRGLaikinFA1.pdb
+C:\Users\AsunaSwan\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA1\PRGLaikinFA1\obj\Debug\netcoreapp2.1\PRGLaikinFA1.genruntimeconfig.cache
